@@ -3,7 +3,7 @@
 
 **Data Table**
 
-The study design called for sampling 500 respondents per country within each wave, equally balanced between 250 teens (ages 13-17) and 250 adults (ages 18-74). Additional adult age quotas were set to ensure the respondent mix reflected the internet user population within the country.  Quotas were also set to ensure  representation of both males and females within each age group.
+The study design called for sampling 500 respondents per country within each wave, equally balanced between 250 teens (ages 13-17) and 250 adults (ages 18-74). Additional adult age quotas were set to ensure the respondent mix reflected the internet user population within each country.  Quotas were also set to ensure similar representation of both males and females within each age group.
 
 All countries included in the final dataset were surveyed across at least four waves, ensuring at least 2,000 total respondents from each geo (hence at least 1,000 teen and adult respondents).
 
