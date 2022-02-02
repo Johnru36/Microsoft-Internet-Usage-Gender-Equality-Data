@@ -1,4 +1,4 @@
-# Internet-Usage-Gender-Equality-Data
+# Microsoft releases Digital Civility Index data set disaggregated by gender, highlighting the risks faced by teen girls and women online  
 
 **NOTE:** _Study findings section will be insterted above the "Methodology and Data Set" text shown below._
 
