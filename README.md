@@ -4,8 +4,13 @@ As part of international Safer Internet Day, Microsoft released the sixth annual
 
  Most notably, while this year’s report finds that overall online civility improved, when disaggregated by gender, the data shows that teen girls and women experienced an all-time high of online risk and negative experiences since the study began in 2016.  
 
-Most notably, while this year’s report finds that overall online civility improved, when disaggregated by gender, the data shows that teen girls and women experienced an all-time high of online risk and negative experiences since the study began in 2016.  
+Microsoft on disaggregated data by gender at the Generation Equality Forum  
 
+While data plays an increasingly important role in our lives, access to quality data on gender has lagged behind. Data that utilizes gender as a primary marker reflects different lived experiences related to gender. That’s why for the first time since Microsoft launched its Digital Civility Index research, we’ve decided to make public the data that underpins the research.  
+
+As a private sector leader for the Generation Equality Forum’s action coalition on Innovation and Technology Microsoft recognizes the importance of advocating for and advancing the release of gender disaggregated data to realize gender equality. Microsoft hopes publishing the data set will spur similar research and releases from other companies, partners, and institutions and advance better gender data policies and solutions. 
+
+Digital civility, safety, and interaction online 
 <h2> Methodology and Data Set</h2>
 
 The study design called for sampling 500 respondents per country within each wave, equally balanced between 250 teens (ages 13-17) and 250 adults (ages 18-74). Additional adult age quotas were set to ensure the respondent mix reflected the internet user population within each country.  Gender quotas were also set to ensure similar representation of both males and females within each age group.
