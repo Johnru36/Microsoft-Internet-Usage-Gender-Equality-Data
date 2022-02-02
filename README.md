@@ -23,6 +23,8 @@ Key topics/variables in the dataset include:
 
 •	**Consequences of risks** (Q9r2_consiquences to Q9r25) What consequences were experienced as a result of online incivility
 
-•	**Actions taken in response to online risks** (Q12r1_actions_take to Q12r22) 
+•	**Actions taken in response to online risks** (Q12r1_actions_taken to Q12r22) 
 
 •	**WW_Weight** a weighting variable which exactly balances out males and females within adult and teen quotas in each country. Useful for comparisons between groups or waves when the unweighted number of males vs females may be different.
+
+A complete list of all individual variables and vtheir alue labels is found in the Inventory CSV.
