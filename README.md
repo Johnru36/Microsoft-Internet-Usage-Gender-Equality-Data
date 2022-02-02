@@ -23,7 +23,7 @@ The enclosed data set includes responses from 22 countries that have been includ
 
  The data set is provided in CSV format, along with an "inventory" CSV detailing each of the variables and values in the dataset. Further details about the dataset are also included in the "Methodology and Data Set" portion at the end of this Readme, follwing the results summary. 
  
-**_Disaggregated data shows teen girls and women experience greater online risks than males_**
+<h2>Disaggregated data shows teen girls and women experience greater online risks than males</h2>
 
 Over the past six years, results from the Digital Civility study have shown that teen girls and women experience greater online risks than males and suffer greater negative emotional, physical, and psychological consequences. 
 
