@@ -10,14 +10,14 @@ While data plays an increasingly important role in our lives, access to quality 
 
 As a private sector leader for the [Generation Equality Forum’s action coalition on Innovation and Technology](https://blogs.microsoft.com/on-the-issues/2021/07/01/human-centered-connectivity-un-generation-equality-forum/) Microsoft recognizes the importance of advocating for and advancing the release of gender disaggregated data to realize gender equality. Microsoft hopes publishing the data set will spur similar research and releases from other companies, partners, and institutions and advance better gender data policies and solutions. 
 
-**_Digital civility, safety, and interaction online _**
+**_Digital civility, safety, and interaction online_**
 Since 2016, Microsoft has been surveying teens and adults around the world about the state of digital civility. A total of over 70,000 respondents from 34 different countries have participated in the survey over six years. The line-up of countries varied each year with an average of 23 countries participating in the annual survey.   
 
 The latest survey, “Civility, Safety and Interaction Online – 2021”, polled teens and adults about their exposure to 21 online risks across four categories (reputational, behavioural, sexual, and personal/intrusive), their experiences online, including COVID-19 impacts, and how these risks and experiences shape their views of life online. 
 
 For more information on the wider study results visit our [Digital Civility website](https://www.microsoft.com/en-us/online-safety/digital-civility).
 
-**_Data set _**
+**_Data set_**
 
 The enclosed data set includes responses from 22 countries that have been included in at least four years of the research, allowing researchers a longitudinal view of respondents’ internet experiences in these different geographies. 
 
@@ -33,6 +33,14 @@ At the same time, teen boys and men’s experiences online improved. For example
 
 <h2>Key findings from the 2021 research<h2>
 
+**Females experienced more negative experiences online than males:** 
+
+-The share of consequences for females online has steadily increased since 2018 and stands at an all-time high of almost 60% 
+
+-On average, females scored 8-points higher on severe to unbearable pain compared to males 
+
+-As a result of common online risks, teen girls and women are significantly more likely to lose trust in others online, lowered self-esteem, and lost sleep; this gap was especially pronounced between teen girls and boys 
+ 
 <h2> Methodology and Data Set</h2>
 
 The study design called for sampling 500 respondents per country within each wave, equally balanced between 250 teens (ages 13-17) and 250 adults (ages 18-74). Additional adult age quotas were set to ensure the respondent mix reflected the internet user population within each country.  Gender quotas were also set to ensure similar representation of both males and females within each age group.
