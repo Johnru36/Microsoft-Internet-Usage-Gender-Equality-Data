@@ -10,7 +10,29 @@ While data plays an increasingly important role in our lives, access to quality 
 
 As a private sector leader for the [Generation Equality Forum’s action coalition on Innovation and Technology](https://blogs.microsoft.com/on-the-issues/2021/07/01/human-centered-connectivity-un-generation-equality-forum/) Microsoft recognizes the importance of advocating for and advancing the release of gender disaggregated data to realize gender equality. Microsoft hopes publishing the data set will spur similar research and releases from other companies, partners, and institutions and advance better gender data policies and solutions. 
 
-Digital civility, safety, and interaction online 
+**_Digital civility, safety, and interaction online _**
+Since 2016, Microsoft has been surveying teens and adults around the world about the state of digital civility. A total of over 70,000 respondents from 34 different countries have participated in the survey over six years. The line-up of countries varied each year with an average of 23 countries participating in the annual survey.   
+
+The latest survey, “Civility, Safety and Interaction Online – 2021”, polled teens and adults about their exposure to 21 online risks across four categories (reputational, behavioural, sexual, and personal/intrusive), their experiences online, including COVID-19 impacts, and how these risks and experiences shape their views of life online. 
+
+For more information on the wider study results visit our [Digital Civility website](https://www.microsoft.com/en-us/online-safety/digital-civility).
+
+**_Data set _**
+
+The enclosed data set includes responses from 22 countries that have been included in at least four years of the research, allowing researchers a longitudinal view of respondents’ internet experiences in these different geographies. 
+
+ The data set is provided in CSV format, along with an "inventory" CSV detailing each of the variables and values in the dataset. Further details about the dataset are also included in the "Methodology and Data Set" portion at the end of this Readme, follwing the results summary. 
+ 
+**_Disaggregated data shows teen girls and women experience greater online risks than males_**
+
+Over the past six years, results from the Digital Civility study have shown that teen girls and women experience greater online risks than males and suffer greater negative emotional, physical, and psychological consequences. 
+
+This year’s report finds that overall online civility improved, however when disaggregated by gender, the data shows that teen girls and women experienced almost 60% of all risks reported in 2021, an all-time high. Females were more likely than males to experience misogyny, unwanted sexual attention, unwanted contact, sexual solicitation, and online harassment. These risks are especially true among teen girls.  
+
+At the same time, teen boys and men’s experiences online improved. For example, male respondents reported a decrease from last year’s numbers in trolling, unwanted sexting, and hate speech.  
+
+<h2>Key findings from the 2021 research<h2>
+
 <h2> Methodology and Data Set</h2>
 
 The study design called for sampling 500 respondents per country within each wave, equally balanced between 250 teens (ages 13-17) and 250 adults (ages 18-74). Additional adult age quotas were set to ensure the respondent mix reflected the internet user population within each country.  Gender quotas were also set to ensure similar representation of both males and females within each age group.
