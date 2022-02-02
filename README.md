@@ -11,6 +11,7 @@ While data plays an increasingly important role in our lives, access to quality 
 As a private sector leader for the [Generation Equality Forum’s action coalition on Innovation and Technology](https://blogs.microsoft.com/on-the-issues/2021/07/01/human-centered-connectivity-un-generation-equality-forum/) Microsoft recognizes the importance of advocating for and advancing the release of gender disaggregated data to realize gender equality. Microsoft hopes publishing the data set will spur similar research and releases from other companies, partners, and institutions and advance better gender data policies and solutions. 
 
 **_Digital civility, safety, and interaction online_**
+
 Since 2016, Microsoft has been surveying teens and adults around the world about the state of digital civility. A total of over 70,000 respondents from 34 different countries have participated in the survey over six years. The line-up of countries varied each year with an average of 23 countries participating in the annual survey.   
 
 The latest survey, “Civility, Safety and Interaction Online – 2021”, polled teens and adults about their exposure to 21 online risks across four categories (reputational, behavioural, sexual, and personal/intrusive), their experiences online, including COVID-19 impacts, and how these risks and experiences shape their views of life online. 
