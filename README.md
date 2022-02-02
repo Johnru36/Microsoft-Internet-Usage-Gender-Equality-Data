@@ -12,9 +12,9 @@ The dataset includes 120 variables including basic respondent demographics (age,
 
 Key topics/variables in the dataset include:
 
-•	**Online Risks Encountered** (Q2A_Doxing to Q2U_unwanted sexual attention) Twenty one risk items asking respondents whether they encountered specific types of internet incivility.
+•	**Online Risks Encountered** (Q2A_Doxing to Q2U_unwanted sexual attention) Twenty one risk items asking respondents whether they encountered specific types of internet incivility
 
-•	**Risk Sources** (Q2ar1_risk source to Q2axnone) Who were the sources of uncivil behavior that respondents encountered 
+•	**Risk Sources** (Q2ar1_risk_source to Q2axnone) Who were the sources of uncivil behavior that respondents encountered 
 
 •	**Pain experienced** (Q5_1A_pain to Q5_1U) How much pain was caused by any specific risks respondents experienced in Q2. _Asked for up to 5 randomly selected risks a given user experienced_.
 
