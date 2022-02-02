@@ -31,7 +31,7 @@ This year’s report finds that overall online civility improved, however when d
 
 At the same time, teen boys and men’s experiences online improved. For example, male respondents reported a decrease from last year’s numbers in trolling, unwanted sexting, and hate speech.  
 
-<h2>Key findings from the 2021 research<h2>
+<h2>Key findings from the 2021 research</h2>
 
 **Females experienced more negative experiences online than males:** 
 
