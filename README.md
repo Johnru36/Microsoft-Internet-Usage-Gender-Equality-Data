@@ -46,6 +46,12 @@ At the same time, teen boys and men’s experiences online improved. For example
 
 **note to team _additional findings and images to be inserted once text is finalized_**
  
+ ![10consequences](assets/Top10_consequences2.png)
+ 
+ ![risks](assets/risksbygender.png)
+ 
+ ![confidence](assets/confidence_managing.png)
+ 
 <h2> Methodology and Data Set</h2>
 
 The study design called for sampling 500 respondents per country within each wave, equally balanced between 250 teens (ages 13-17) and 250 adults (ages 18-74). Additional adult age quotas were set to ensure the respondent mix reflected the internet user population within each country.  Gender quotas were also set to ensure similar representation of both males and females within each age group.
