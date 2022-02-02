@@ -6,7 +6,7 @@
 
 The study design called for sampling 500 respondents per country within each wave, equally balanced between 250 teens (ages 13-17) and 250 adults (ages 18-74). Additional adult age quotas were set to ensure the respondent mix reflected the internet user population within each country.  Gender quotas were also set to ensure similar representation of both males and females within each age group.
 
-All countries included in the final dataset were surveyed across at least four waves, ensuring at least 2,000 total respondents from each geo (hence at least 1,000 teen and adult respondents).
+All countries included in the final dataset were surveyed across at least four waves, ensuring at least 2,000 total respondents from each geo (hence at least 1,000 each teen and adult respondents).
 
 The dataset includes 120 variables including basic respondent demographics (age, gender, country) along with key questions repeated across multiple waves. Note that select countries were not represented across all 6 waves, and items changed slightly over time, so not every response item is found in all 6 waves.
 
