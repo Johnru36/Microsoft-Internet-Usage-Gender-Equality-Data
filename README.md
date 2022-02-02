@@ -15,7 +15,7 @@ Key topics/variables in the dataset include:
 
 •	**Risk Sources** (Q2ar1_risk source to Q2axnone) Who were the sources of uncivil behavior that respondents encountered 
 
-•	**Pain experienced** (Q5_1A_pain to Q5_1U) How much pain was caused by any specific risks respondents experienced in Q2. Asked for up to 5 randomly selected risks a given user experienced
+•	**Pain experienced** (Q5_1A_pain to Q5_1U) How much pain was caused by any specific risks respondents experienced in Q2. _Asked for up to 5 randomly selected risks a given user experienced_.
 
 •	**MaxPain** What was the highest level of pain/discomfort experienced from any online risk
 
