@@ -1,6 +1,6 @@
 # Internet-Usage-Gender-Equality-Data
 
-**NOTE:** _Study findings section will be insterted above the "data table" methodology text shown below._
+**NOTE:** _Study findings section will be insterted above the "Methodology and Data Set" text shown below._
 
 <h2> Methodology and Data Set</h2>
 
