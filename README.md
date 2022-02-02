@@ -8,7 +8,7 @@ As part of international Safer Internet Day, Microsoft released the sixth annual
 
 While data plays an increasingly important role in our lives, access to quality data on gender has lagged behind. Data that utilizes gender as a primary marker reflects different lived experiences related to gender. That’s why for the first time since Microsoft launched its Digital Civility Index research, we’ve decided to make public the data that underpins the research.  
 
-As a private sector leader for the Generation Equality Forum’s action coalition on Innovation and Technology Microsoft recognizes the importance of advocating for and advancing the release of gender disaggregated data to realize gender equality. Microsoft hopes publishing the data set will spur similar research and releases from other companies, partners, and institutions and advance better gender data policies and solutions. 
+As a private sector leader for the [Generation Equality Forum’s action coalition on Innovation and Technology](https://blogs.microsoft.com/on-the-issues/2021/07/01/human-centered-connectivity-un-generation-equality-forum/) Microsoft recognizes the importance of advocating for and advancing the release of gender disaggregated data to realize gender equality. Microsoft hopes publishing the data set will spur similar research and releases from other companies, partners, and institutions and advance better gender data policies and solutions. 
 
 Digital civility, safety, and interaction online 
 <h2> Methodology and Data Set</h2>
