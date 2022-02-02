@@ -1,6 +1,6 @@
 # Internet-Usage-Gender-Equality-Data
 
-**NOTE:** Study findings section will appear above the "data table" text.
+**NOTE:** Study findings section will appear above the "data table" methodology text.
 
 **Data Table**
 
