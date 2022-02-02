@@ -40,6 +40,10 @@ At the same time, teen boys and men’s experiences online improved. For example
 •	On average, females scored 8-points higher on severe to unbearable pain compared to males
  
 •	As a result of common online risks, teen girls and women are significantly more likely to lose trust in others online, lowered self-esteem, and lost sleep; this gap was especially pronounced between teen girls and boys 
+
+Chart, line chart
+
+Description automatically generated
  
 <h2> Methodology and Data Set</h2>
 
