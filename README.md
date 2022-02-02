@@ -46,11 +46,11 @@ At the same time, teen boys and men’s experiences online improved. For example
 
 **note to team _additional findings and images to be inserted once text is finalized_**
  
- ![10consequences](assets/Top10_consequences2.png)
+![10consequences](assets/Top10_consequences2.png)
  
- ![risks](assets/risksbygender.png)
+![risks](assets/risksbygender.png)
  
- ![confidence](assets/confidence_managing.png)
+![confidence](assets/confidence_managing.png)
  
 <h2> Methodology and Data Set</h2>
 
