@@ -21,7 +21,7 @@ For more information on the wider study results visit our [Digital Civility webs
 
 The enclosed data set includes responses from 22 countries that have been included in at least four years of the research, allowing researchers a longitudinal view of respondents’ internet experiences in these different geographies. 
 
- The data set is provided in CSV format, along with an "inventory" CSV detailing each of the variables and values in the dataset. Further details about the dataset are also included in the "Methodology and Data Set" portion at the end of this Readme, follwing the results summary. 
+ The data set is provided in CSV format, along with an "inventory" CSV detailing each of the variables and values in the dataset. Further details are provided in the "Methodology and Data Set" portion at the end of this Readme, follwing the summary of key findings from 2021. 
  
 <h2>Disaggregated data shows teen girls and women experience greater online risks than males</h2>
 
