@@ -34,8 +34,10 @@ At the same time, teen boys and men’s experiences online improved. For example
 <h2>Key findings from the 2021 research</h2>
 
 **Females experienced more negative experiences online than males:** 
- -The share of consequences for females online has steadily increased since 2018 and stands at an all-time high of almost 60% 
- -On average, females scored 8-points higher on severe to unbearable pain compared to males 
+ -The share of consequences for females online has steadily increased since 2018 and stands at an all-time high of almost 60%
+ 
+ -On average, females scored 8-points higher on severe to unbearable pain compared to males
+ 
  -As a result of common online risks, teen girls and women are significantly more likely to lose trust in others online, lowered self-esteem, and lost sleep; this gap was especially pronounced between teen girls and boys 
  
 <h2> Methodology and Data Set</h2>
