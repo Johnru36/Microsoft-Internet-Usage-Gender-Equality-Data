@@ -1,6 +1,10 @@
 # Microsoft releases Digital Civility Index data set disaggregated by gender, highlighting the risks faced by teen girls and women online  
 
-**NOTE:** _Study findings section will be insterted above the "Methodology and Data Set" text shown below._
+As part of international Safer Internet Day, Microsoft released the sixth annual study on Digital Civility around the world. For the first time,  since the Digital Civility report has been conducted Microsoft is releasing on the gender-disaggregated data set that underpins the studyfrom all six years of the study.  
+
+ Most notably, while this year’s report finds that overall online civility improved, when disaggregated by gender, the data shows that teen girls and women experienced an all-time high of online risk and negative experiences since the study began in 2016.  
+
+Most notably, while this year’s report finds that overall online civility improved, when disaggregated by gender, the data shows that teen girls and women experienced an all-time high of online risk and negative experiences since the study began in 2016.  
 
 <h2> Methodology and Data Set</h2>
 
