@@ -44,7 +44,7 @@ At the same time, teen boys and men’s experiences online improved. For example
  
 ![risks](assets/risksbygender.png)
  
-![confidence](assets/Confidence_managing2.png)
+![confidence](assets/Risksbygender.png)
  
 <h2> Methodology and Data Set</h2>
 
