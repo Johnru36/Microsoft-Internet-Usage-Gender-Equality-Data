@@ -18,12 +18,6 @@ The latest survey, “Civility, Safety and Interaction Online – 2021”, polle
 
 For more information on the wider study results visit our [Digital Civility website](https://www.microsoft.com/en-us/online-safety/digital-civility).
 
-**_Data set_**
-
-The enclosed data set includes responses from 22 countries that have been included in at least four years of the research, allowing researchers a longitudinal view of respondents’ internet experiences in these different geographies. 
-
- The data set is provided in CSV format, along with an "inventory" CSV detailing each of the variables and values in the dataset. Further details are provided in the "Methodology and Data Set" portion at the end of this Readme, follwing the summary of key findings from 2021. 
- 
 <h2>Disaggregated data shows teen girls and women experience greater online risks than males</h2>
 
 Over the past six years, results from the Digital Civility study have shown that teen girls and women experience greater online risks than males and suffer greater negative emotional, physical, and psychological consequences. 
@@ -54,6 +48,8 @@ At the same time, teen boys and men’s experiences online improved. For example
  
 <h2> Methodology and Data Set</h2>
 
+The enclosed data set includes responses from 22 countries that have been included in at least four years of the research, allowing researchers a longitudinal view of respondents’ internet experiences in these different geographies. The data set is provided in CSV format, along with an "inventory" CSV detailing each of the variables and values in the dataset. 
+ 
 The study design called for sampling 500 respondents per country within each wave, equally balanced between 250 teens (ages 13-17) and 250 adults (ages 18-74). Additional adult age quotas were set to ensure the respondent mix reflected the internet user population within each country.  Gender quotas were also set to ensure similar representation of both males and females within each age group.
 
 All countries included in the final dataset were surveyed across at least four waves, ensuring at least 2,000 total respondents from each geo (hence at least 1,000 each teen and adult respondents).
