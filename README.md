@@ -58,6 +58,8 @@ At the same time, males’ experiences online improved. For example, teen boy an
  
 ![confidence](assets/Confidence_managing3.png)
  
+ A more complete analysis of gender differences can be found in [Gender Difference in Civility Safety & Interaction Online 2016-2021](
+ 
 <h2> Methodology and Data Set</h2>
 
 The enclosed data set includes over 60,000 responses from 22 countries that participated in at least four years of the research, allowing researchers a longitudinal view of respondents’ internet experiences in these different geographies. The "data" folder includes the data set in CSV format, along with an "inventory" CSV detailing each of the variables and values in the dataset. 
