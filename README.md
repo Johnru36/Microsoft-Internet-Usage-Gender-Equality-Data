@@ -58,7 +58,7 @@ At the same time, males’ experiences online improved. For example, teen boy an
  
 ![confidence](assets/Confidence_managing3.png)
  
- A more complete analysis of gender differences can be found in [Gender Difference in Civility Safety & Interaction Online 2016-2021](
+ A more complete analysis of gender differences can be found in [Gender Difference in Civility Safety & Interaction Online 2016-2021](Gender Difference in Civility Safety & Interaction Online 2016-2021.pdf)
  
 <h2> Methodology and Data Set</h2>
 
@@ -86,4 +86,4 @@ Key topics/variables in the dataset include:
 
 •	**WW_Weight** a weighting variable which exactly balances out males and females within adult and teen quotas in each country. Useful for comparisons between groups or waves when the unweighted number of males vs females may be different.
 
-_**A complete list of all individual variables and their value labels is found in the Data File Inventory CSV**_  
+_**A complete list of all individual variables and their value labels is found in the [Data File Inventory](  
