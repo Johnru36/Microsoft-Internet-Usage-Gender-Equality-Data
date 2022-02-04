@@ -34,7 +34,7 @@ At the same time, males’ experiences online improved. For example, teen boy an
  
 •	On average, females scored 8-points higher on severe to unbearable pain compared to males
  
-•	As a result of common online risks, teen girls and women are significantly more likely to lose trust in others online, have lowered self-esteem, and lost sleep; this gap was especially pronounced between teen girls and boys 
+•	As a result of common online risks, teen girls and women are significantly more likely to lose trust in others online, have lowered self-esteem, and lose sleep; this gap was more pronounced between teen girls and boys 
 
 **Online behaviour changes during Covid-19:**
 
@@ -46,7 +46,7 @@ At the same time, males’ experiences online improved. For example, teen boy an
 
 **Attitudes and confidence in managing online risks:**
 
-•	Only 44% of females report feeling confident in their ability to manage online risks. This was 14-points lower than males 
+•	Only 42% of females report feeling confident in their ability to manage online risks. This was 11-points lower than males 
 
 •	Females more strongly believed in addressing the problems of online risks including education, reducing the ability to post anonymously, and policing of social media platforms 
 
