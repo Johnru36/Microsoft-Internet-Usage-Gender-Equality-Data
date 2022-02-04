@@ -40,7 +40,7 @@ At the same time, teen boys and men’s experiences online improved. For example
 
 **note to team _additional findings and images to be inserted once text is finalized_**
  
-![10consequences](https://github.com/Johnru36/Microsoft_Online_Experiences--TeenAge_Girls_and_Women_Data/blob/f50a8beef05fccf82530664f9d4a52e24a75fd79/assets/Top10_Consequences2.png)
+![10consequences](assets/Top10_Consequences2.png)
  
 ![risks](assets/Risksbygender.png)
  
