@@ -86,4 +86,4 @@ Key topics/variables in the dataset include:
 
 •	**WW_Weight** a weighting variable which exactly balances out males and females within adult and teen quotas in each country. Useful for comparisons between groups or waves when the unweighted number of males vs females may be different.
 
-A complete list of all individual variables and their value labels is found in the Data File Inventory.
+A complete list of all individual variables and their value labels is found in the [Data File Inventory](https://github.com/MeganMO/Microsoft_Online_Experiences--TeenAge_Girls_and_Women_Data/blob/9421f727f4978d0c38b8fb2dfd8389306e0da690/Data/Data%20File%20Inventory.csv).
