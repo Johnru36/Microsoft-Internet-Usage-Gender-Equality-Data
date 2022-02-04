@@ -58,7 +58,7 @@ At the same time, males’ experiences online improved. For example, teen boy an
  
 ![confidence](assets/Confidence_managing3.png)
  
-A more complete analysis of gender differences can be found in [Gender Difference in Civility Safety & Interaction Online 2016-2021](Gender Difference in Civility Safety & Interaction Online 2016-2021.pdf)
+A more complete analysis of gender differences can be found in [Gender Difference in Civility Safety & Interaction Online 2016-2021](https://github.com/MeganMO/Microsoft_Online_Experiences--TeenAge_Girls_and_Women_Data/blob/9421f727f4978d0c38b8fb2dfd8389306e0da690/Gender%20Difference%20in%20Civility%20Safety%20&%20Interaction%20Online%202016-2021.pdf)
  
 <h2> Methodology and Data Set</h2>
 
