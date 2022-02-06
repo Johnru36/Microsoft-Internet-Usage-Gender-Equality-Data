@@ -18,7 +18,7 @@ The latest survey, “Civility, Safety and Interaction Online – 2021”, polle
 
 For more information on the wider study results visit our [Digital Civility website](https://www.microsoft.com/en-us/online-safety/digital-civility).
 
-<h2>Disaggregated data shows teen girls and women experience greater online risks than males</h2>
+<h2>Disaggregated data shows teen girls and women experience greater online risk than males</h2>
 
 Over the past six years, results from the Digital Civility study have shown that teen girls and women have more online negative experiences than males and suffer greater negative emotional, physical, and psychological consequences. 
 
